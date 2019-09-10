@@ -3,3 +3,4 @@
 # 2) Gym
 # 3) Eating sushi
 # 4) Travel
+# 5) Hiking
